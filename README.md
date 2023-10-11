@@ -6,7 +6,7 @@ Welcome to Keeper App, a replica of Google Keep built with React.
 
 Keeper App is a web application that allows users to create and manage notes. It's designed to resemble the popular note-taking app Google Keep, providing a simple and intuitive interface for keeping track of your ideas, to-do lists, and more.
 
-![Screenshot 1]("screenShots/Screenshot1.png")
+![Screenshot 1](./screenShots/Screenshot1.png)
 _Home_
 
 ## Features
@@ -18,10 +18,10 @@ _Home_
 
 ## Screenshots
 
-![Screenshot 2]("screenShots/Screenshot2.png")
+![Screenshot 2](./screenShots/Screenshot2.png)
 _When you click the note create will span_
 
-![Screenshot 3]("screenShots/Screenshot3.png")
+![Screenshot 3](./screenShots/Screenshot3.png)
 _You can add and delete notes_
 
 ## Getting Started
@@ -44,14 +44,13 @@ In the future, we plan to add the following features:
 - User authentication
 - Cloud storage for note data
 - Collaboration features
-- [Other planned features]
 
 ## Contributing
 
-If you'd like to contribute to Keeper App, please read our [contribution guidelines](link-to-contribution-guidelines).
+If you'd like to contribute to Keeper App, contact me.
 
 ## Contact
 
-For questions or support, you can reach out to [Your Name] at [Your Email Address].
+For questions or support, you can reach out to Wickramarathna at pmwickramaratna@gmail.com.
 
 ---
